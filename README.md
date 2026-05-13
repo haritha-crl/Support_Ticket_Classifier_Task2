@@ -80,3 +80,18 @@ This system can:
 - Pandas
 - Matplotlib/Seaborn
 - Jupyter Notebook
+- 
+## 📸 Project Screenshots
+
+### 1. Terminal Output
+![Terminal Output](1_terminal_output.png)
+
+### 2. Project Structure
+![Project Structure](2_structure.png)
+
+## 📌 Models Implemented
+- Category Prediction Model
+- Priority Prediction Model
+
+## 🛠️ Tech Stack
+Python | Scikit-learn | Pandas | Jupyter Notebook
